@@ -1,3 +1,4 @@
 rootProject.name='MultiModuleProject'
 include ':app'
 include ':base:core'
+include ':base:network'

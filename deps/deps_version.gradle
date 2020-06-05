@@ -4,7 +4,7 @@ ext{
     daggerVersion = '2.28'
     gsonVersion = '2.8.6'
 
-    retrofit = "om.squareup.retrofit2:retrofit:$retrofitVersion"
+    retrofit = "com.squareup.retrofit2:retrofit:$retrofitVersion"
     jsr330 = "javax.inject:javax.inject:$jsr330Version"
     dagger = "com.google.dagger:dagger:$daggerVersion"
     daggerCompiler = "com.google.dagger:dagger-compiler::$daggerVersion"
