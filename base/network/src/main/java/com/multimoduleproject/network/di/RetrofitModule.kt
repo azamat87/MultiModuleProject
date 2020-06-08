@@ -1,4 +1,4 @@
-package azamat.kz.multimoduleproject.modules
+package com.multimoduleproject.network.di
 
 import dagger.Module
 import dagger.Provides
