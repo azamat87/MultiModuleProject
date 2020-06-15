@@ -37,6 +37,7 @@ dependencies {
 
     implementation gson
     implementation dagger
+    implementation retrofit
     kapt daggerCompiler
 
     testImplementation 'junit:junit:4.12'

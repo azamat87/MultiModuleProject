@@ -2,7 +2,7 @@ package com.multimoduleproject.brewery.dto
 
 import com.google.gson.annotations.SerializedName
 
-data class SingleBreweryDTO (
+data class BreweryDTO (
     val id: Int,
     val name: String,
     @SerializedName("website_url")
