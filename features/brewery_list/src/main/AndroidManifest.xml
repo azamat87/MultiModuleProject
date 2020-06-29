@@ -1,2 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.multimoduleproject.brewery_list" />
+    package="com.multimoduleproject.brewery_list">
+
+    <application>
+        <activity android:name=".BreweriesActivity"></activity>
+    </application>
+
+</manifest>
