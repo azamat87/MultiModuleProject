@@ -7,6 +7,6 @@ import retrofit2.http.Path
 interface BreweryApi {
 
     @GET("breweries")
-    fun getBrewery(@Path("brewery") id: String): Call<List<BreweryItem>>
+    fun getBrewery(): Call<List<BreweryItem>>
 
 } 
