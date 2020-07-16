@@ -41,6 +41,7 @@ dependencies {
     implementation retrofit
     implementation gsonConverter
     implementation gson
+    implementation jsr330
     implementation project(':base:core')
 
     testImplementation 'junit:junit:4.12'
