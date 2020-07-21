@@ -1,4 +1,4 @@
 package com.multimoduleproject.core
 
-interface AppProvider: NetworkProvider  {
+interface AppProvider: NetworkProvider, MediatorsProvider  {
 }
